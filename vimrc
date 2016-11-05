@@ -1,5 +1,5 @@
 
-" Vundle.vim
+" Start Vundle.vim
 set nocompatible
 filetype off
 
@@ -16,6 +16,8 @@ Plugin 'dracula/vim'
 
 call vundle#end()
 filetype plugin indent on
+" End Vundle.vim
 
+" Theme
 syntax on
 color dracula
