@@ -23,3 +23,9 @@ git submodule init
 git submodule update
 ```
 
+### Mac
+
+```bash
+# TODO
+```
+
