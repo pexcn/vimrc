@@ -8,8 +8,15 @@ My vim configure files.
 ### Windows
 
 ```cmd
+# cmd
 git clone https://github.com/pexcn/vimrc.git %USERPROFILE%\vimfiles
 cd %USERPROFILE%\vimfiles
+git submodule init
+git submodule update
+
+# cygwin
+git clone https://github.com/pexcn/vimrc.git $USERPROFILE/vimfiles
+cd $USERPROFILE/vimfiles
 git submodule init
 git submodule update
 ```
