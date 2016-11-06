@@ -1,6 +1,8 @@
 
 # vimrc
 
+My vim configure files.
+
 ## Usage
 
 ### Windows
@@ -15,5 +17,9 @@ git submodule update
 ### Unix
 
 ```bash
-# TODO
+git clone https://github.com/pexcn/vimrc.git $HOME/.vim
+cd $HOME/.vim
+git submodule init
+git submodule update
 ```
+
