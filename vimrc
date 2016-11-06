@@ -32,10 +32,15 @@ set linebreak
 " 显示行号
 set number
 
-" 中文帮助文档
+" 语言
 set helplang=cn
+set langmenu=zh_CN.UTF-8
+language messages zh_CN.UTF-8
+
+
+
+
 
 " 80 个字符自动换行
 " set textwidth=80
 " set showtabline=2
-
