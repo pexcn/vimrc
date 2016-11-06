@@ -7,7 +7,7 @@ My vim configure files.
 
 ### Windows
 
-```cmd
+```bash
 # cmd
 git clone https://github.com/pexcn/vimrc.git %USERPROFILE%\vimfiles
 cd %USERPROFILE%\vimfiles
